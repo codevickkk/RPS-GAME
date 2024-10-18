@@ -1,0 +1,48 @@
+body{
+  padding-left: 10px;
+  background-color: black;
+  color: white;
+  font-family: arial;
+}
+
+.cssp1{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+.icon{
+  height: 50px;
+  background-color: transparent;
+
+}
+
+.btnmain{
+  background-color: transparent;
+  border-width: 3px;
+  border-style: solid;
+  border-color: white;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.cssp2{
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.score{
+  margin-top: 60px;
+}
+
+.cssreset{
+  background-color: white;
+  border: none;
+  font-size: 15px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
